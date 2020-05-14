@@ -7,7 +7,7 @@
 
 ## Sample Java Codes:
 
-1. This sample will be used to test the `output` of Java program.
+1. This sample will be used to test the `output` of a Java program.
 ```java
 class HelloWorld {
     public static void main(String[] args) {
@@ -36,6 +36,27 @@ class HelloQ1 {
 }
 ```
 
+4. This sample will be used to test the `Input & output` of a Java program.
+```java
+import java.util.Scanner;
+
+class HelloInput{
+
+    public static void main(String[] args) {
+        
+        Scanner s = new Scanner(System.in);
+        
+        System.out.print("Please enter x: ");
+        int x = s.nextInt();
+        
+        System.out.print("Please enter x: ");
+        int y = s.nextInt();
+        
+        int z = x + y;
+        System.out.println(z);
+    }
+}
+```
 
 ## How to compile and run Java from command line
 
