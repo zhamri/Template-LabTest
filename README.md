@@ -1,3 +1,10 @@
+## INSTRUCTION:
+
+1. Create a new Java file called "HelloWorld". 
+1. Create a new Java file called "HelloUum". 
+1. Create a new Java file called "HelloQ1" in a `Question1` directory.
+
+
 ## Sample Java Codes:
 
 1. This sample will be used to test the `output` of Java program.
@@ -24,7 +31,7 @@ package Question1;
 
 class HelloQ1 {
     public static void main(String[] args) {
-        System.out.println("Hello Q2"); 
+        System.out.println("Hello Q1"); 
     }
 }
 ```
