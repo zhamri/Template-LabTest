@@ -38,7 +38,7 @@ $ javac HelloWorld.java
 $ java HelloWorld
 ```
 
-1. For a single source file in a directory `Question1`
+2. For a single source file in a `Question1` directory.
 ```
 $ javac Question1/HelloWorld.java
 $ java Question1/HelloWorld
