@@ -8,7 +8,8 @@
 
 To simulate the student's role, I would advise you to install the following software:
 1. `Git` --> https://git-scm.com/downloads
-2. `Intellij IDEA` --> https://www.jetbrains.com/idea/download/
+2. `Java` --> https://openjdk.java.net/install/
+3. `Intellij IDEA` --> https://www.jetbrains.com/idea/download/
 
 ## Related YouTube Video:
 
