@@ -1,4 +1,21 @@
-## INSTRUCTION:
+# INSTRUCTION:
+
+## Create a GitHub Account:
+
+## Installation (Optional)
+
+As a student, I would advise you to install the following software:
+1. `Git` --> https://git-scm.com/downloads
+2. `Intellij IDEA` --> https://www.jetbrains.com/idea/download/
+
+## Related YouTube Video:
+
+1. [Git | How to install git on Windows](https://youtu.be/P1bh5qS63qQ)
+1. [IntelliJ IDEA | How to clone, add, commit and push a repository to GitHub easily](https://youtu.be/RXV3Yusr0SI)
+1. [GitHub | Creating a repository from a template](https://youtu.be/DKiS5qjfKho)
+
+
+## Exercises:
 
 1. Create a new Java file called "HelloWorld". 
 1. Create a new Java file called "HelloUum". 
