@@ -2,6 +2,8 @@
 
 ## Create a GitHub Account:
 
+* Go to https://github.com and click `Sign up` for creating new GitHub account.
+
 ## Installation (Optional)
 
 As a student, I would advise you to install the following software:
@@ -75,7 +77,7 @@ class HelloInput{
 }
 ```
 
-## How to compile and run Java from command line
+## How to compile and run Java from command line (Optional)
 
 1. For a single source file
 ```
