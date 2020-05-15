@@ -6,7 +6,7 @@
 
 ## Installation (Optional)
 
-As a student, I would advise you to install the following software:
+To simulate the student's role, I would advise you to install the following software:
 1. `Git` --> https://git-scm.com/downloads
 2. `Intellij IDEA` --> https://www.jetbrains.com/idea/download/
 
