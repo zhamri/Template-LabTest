@@ -17,7 +17,7 @@ As a student, I would advise you to install the following software:
 1. [GitHub | Creating a repository from a template](https://youtu.be/DKiS5qjfKho)
 
 
-## Exercises:
+## Exercises (Will do these later thru Webex):
 
 1. Create a new Java file called "HelloWorld". 
 1. Create a new Java file called "HelloUum". 
