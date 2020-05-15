@@ -91,3 +91,20 @@ $ javac Question1/HelloWorld.java
 $ java Question1/HelloWorld
 ```
 
+## Git Command (Optional)
+
+1. Create a new repository on the command line
+```
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/azikri/test.git
+git push -u origin master
+```
+2. Push an existing repository from the command line
+```
+git remote add origin https://github.com/azikri/test.git
+git push -u origin master
+```
+
